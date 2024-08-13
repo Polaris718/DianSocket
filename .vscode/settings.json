@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "problems.showCurrentInStatus": true,
+    "makefile.configureOnOpen": false,
+    "editor.renderWhitespace": "selection",
+    "editor.renderLineHighlight": "line",
+    "git.inputValidation": false
+}
